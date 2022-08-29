@@ -1,4 +1,4 @@
-# **ProyectoFinalPoo**
+# ***Proyecto Final Poo***
 Integrantes: 
 - Males Paulina
 - Moreira Marcos
