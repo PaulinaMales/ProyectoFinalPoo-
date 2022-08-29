@@ -1,7 +1,7 @@
 # ***Proyecto Final Poo***
 Integrantes: 
-- Males Paulina
-- Moreira Marcos
+- Males Paulina.
+- Moreira Marcos.
 
 
 ***Imagen de la ventana principal***
