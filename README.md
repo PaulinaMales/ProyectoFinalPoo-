@@ -28,3 +28,7 @@ Integrantes:
 ![image](https://user-images.githubusercontent.com/87955476/187729393-5cd4af26-73ac-4fe5-9ca6-172c15ea1d6a.png)
 
 ![image](https://user-images.githubusercontent.com/87955476/187730000-a2db3d8d-64e8-482b-9769-e11081191069.png)
+
+
+
+***Estamos trabajando en las instrucciones que trenda cada modulo al momento que ingresa a los diferentes tipos de usuarios***
