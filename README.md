@@ -23,3 +23,8 @@ Integrantes:
 ***Imagen del modulo de Administrador (Actualmente seguimos trabajando en el tambien)***
 
 ![image](https://user-images.githubusercontent.com/105298870/185779684-f80c9455-7936-4712-b663-f596c2972e0d.png)
+
+***Detalles del proceso***
+![image](https://user-images.githubusercontent.com/87955476/187729393-5cd4af26-73ac-4fe5-9ca6-172c15ea1d6a.png)
+
+![image](https://user-images.githubusercontent.com/87955476/187730000-a2db3d8d-64e8-482b-9769-e11081191069.png)
