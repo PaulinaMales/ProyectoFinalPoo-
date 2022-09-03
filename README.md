@@ -32,3 +32,26 @@ Integrantes:
 
 
 ***Estamos trabajando en las instrucciones que trenda cada modulo al momento que ingresa a los diferentes tipos de usuarios***
+
+***Pusimos las instrucciones de los usuarios***
+
+![image](https://user-images.githubusercontent.com/105298870/188249623-ac39659f-0ba3-4964-ba20-003163ff9fe9.png)
+
+
+![image](https://user-images.githubusercontent.com/105298870/188249639-7e86015a-5611-4129-8f2a-c28826fb5b06.png)
+
+
+![image](https://user-images.githubusercontent.com/105298870/188249765-40a5fc01-3bc7-44ee-870a-12c41679acf8.png)
+
+
+***Actualizamos el sistema para que cada vez que se abra una nueva ventana se cierre la anterior***
+
+
+
+![image](https://user-images.githubusercontent.com/105298870/188249821-31d3625f-f6f8-4e37-8938-4967fcaa342c.png)
+
+
+
+
+***Como se puede ver hemos entrado al modulo de administrador y la ventana de Login se cerro,  se puede aprecia en la aprte superior que solo esta abierta una ventana***
+
