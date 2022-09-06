@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PruebaExamen:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="94762a5a-c5a6-4591-ae03-a44ea3203444" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +120,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/PruebaExamen2/PruebaExamen"
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/PruebaExamen2/PruebaExamen",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Principal">
@@ -215,7 +224,9 @@
       <option name="presentableId" value="Default" />
       <updated>1661039988380</updated>
       <workItem from="1661100536209" duration="10071000" />
-      <workItem from="1662322269075" duration="2793000" />
+      <workItem from="1662322269075" duration="3562000" />
+      <workItem from="1662394442645" duration="6657000" />
+      <workItem from="1662420794809" duration="9784000" />
     </task>
     <servers />
   </component>
@@ -259,7 +270,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Administrador.java</url>
-          <line>197</line>
+          <line>203</line>
           <properties class="Administrador" method="Crear1">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -268,7 +279,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Administrador.java</url>
-          <line>241</line>
+          <line>247</line>
           <properties class="Administrador" method="buscar">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -277,7 +288,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Administrador.java</url>
-          <line>475</line>
+          <line>481</line>
           <properties class="Administrador" method="eliminar1">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -286,7 +297,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Bodeguero.java</url>
-          <line>155</line>
+          <line>153</line>
           <properties class="Bodeguero" method="Buscar">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -295,7 +306,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Cajero.java</url>
-          <line>153</line>
+          <line>162</line>
           <properties class="Cajero" method="limpiar">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -304,12 +315,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Administrador.java</url>
-          <line>389</line>
+          <line>395</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Administrador.java</url>
-          <line>476</line>
+          <line>482</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
